@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 
+
+My name is Klinger Ferreira from Brazil (🇧🇷). I've a degree in accounting, but since (2001) school I write codes in different languages to streamline my studies and my work in order to optimize my tasks, decisions, social and work environment, so I've created some projects and I've always loved to produce a lot of content during my career.
+
+In my free time I like to play and watch sports, to watch movies and series, explore and discover new skills and knowledge to simplify life and make it more enjoyable.
+
+Would you like to find me?
+
+[![Site Badge](https://img.shields.io/badge/coisasimples.com-black)](https://coisasimples.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kzieg)](https://twitter.com/kzieg)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klinger-f-28042726)](https://www.linkedin.com/in/klinger-f-28042726)
 
 <!--
 **klingersf/klingersf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
