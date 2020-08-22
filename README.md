@@ -7,8 +7,9 @@ In my free time I like to play and watch sports, to watch movies and series, exp
 Would you like to find me?
 
 [![Site Badge](https://img.shields.io/badge/coisasimples.com-black)](https://coisasimples.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kzieg)](https://twitter.com/kzieg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klinger-f-28042726)](https://www.linkedin.com/in/klinger-f-28042726)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kzieg)](https://twitter.com/kzieg)
+
 
 ### Languages and Tools:
 
