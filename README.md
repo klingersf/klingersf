@@ -10,7 +10,7 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klinger-f-28042726)](https://www.linkedin.com/in/klinger-f-28042726)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kzieg)](https://twitter.com/kzieg)
 
-
+<!--
 ### Languages and Tools:
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -31,6 +31,7 @@ Would you like to find me?
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
+-->
 
 
 <!--
